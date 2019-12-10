@@ -17,7 +17,7 @@
 
 <body>
 	<?php
-	echo file_get_contents("/Includes/header.txt")
+	echo file_get_contents("/Includes/header.txt", true)
 	?>
 
 	<main>
