@@ -1,0 +1,49 @@
+		<header>
+			<div class="logo-container">
+				<a href="/">
+					<img src="" alt="FPC MAO Logo" />
+					<h4 class="logo">FPC MAO</h4>
+				</a>
+			</div>
+
+			<nav>
+				<ul class="nav-links">
+					<li>
+						<a class="nav-link" id="home" href="/">Home</a>
+					</li>
+					<li>
+						<a class="nav-link" id="about" href="/meetings/"
+							>Meetings</a
+						>
+					</li>
+					<li>
+						<a class="nav-link" id="officers" href="/conferences/"
+							>Conferences</a
+						>
+					</li>
+				</ul>
+
+				<div class="burger">
+					<div class="line1"></div>
+					<div class="line2"></div>
+					<div class="line3"></div>
+				</div>
+			</nav>
+
+			<ul class="buttons">
+				<li>
+					<input
+						type="button"
+						onclick="redirect('/join/')"
+						value="Join"
+					/>
+				</li>
+				<li>
+					<input
+						type="button"
+						onclick="redirect('/sign-in/')"
+						value="Sign In"
+					/>
+				</li>
+			</ul>
+		</header>
