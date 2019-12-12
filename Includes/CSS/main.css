@@ -5,34 +5,11 @@
 }
 /*
 #e8eded general white (background and text)
-
-#88aeda very light blue (heading 2)
-#3181b8 slightly darker and more blue version of ^ (header/buttons)
-#12344b dark blue (heading 1)
-#1b3156 very dark blue w/ purple
-
-#7277a6 light purple
-#1d223d very dark purple
-
-#71adc5 light turquoise
-#5776af meduim turquoise (text boxes)
-
-
-
-
-add some greens?? 
-#e8eded general white (background and text)
-#3661E5 royal blue
-#55828B steel teal
-#7DCE82 pastel green (heading 1)
-#14BDEB really light blue (header/buttons)
-#5D9B41 darker green, "palm leaf"
-
-
-
-
-
-
+#1B3156 (text background)
+#7277A6 h1
+#5776AF h2
+#754668 header/buttons
+#C8C2D3 highlights(links)
 */
 html,
 body {
