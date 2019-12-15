@@ -70,7 +70,7 @@ nav {
 	text-decoration: none;
 	transition: 0.25s;
 	margin: 30px;
-	border: solid 2.5px #754668;
+	border: solid 2.5px rgba(117, 70, 104, 0.9);
 	padding: 7.5px;
 	border-radius: 2.5px;
 }
@@ -128,7 +128,7 @@ nav {
 .burger div {
 	width: 25px;
 	height: 3px;
-	background-color: #e0f4e2;
+	background-color: #e8eded;
 	transition: all 0.25s ease;
 }
 
@@ -147,7 +147,7 @@ nav {
 		left: 0px;
 		height: calc(100vh - 75px);
 		top: 75px;
-		background: rgba(49, 129, 184, 0.9);
+		background-color: rgba(117, 70, 104, 0.9);
 		display: block;
 		text-align: center;
 		align-items: center;
