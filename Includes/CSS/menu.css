@@ -58,6 +58,7 @@ nav {
 
 .nav-links {
 	list-style: none;
+	transition: 0.25s;
 }
 
 .nav-links a:hover {
@@ -70,7 +71,7 @@ nav {
 	text-decoration: none;
 	transition: 0.25s;
 	margin: 30px;
-	border: solid 2.5px rgba(117, 70, 104, 0.9);
+	border: solid 2.5px rgba(117, 70, 104, 0);
 	padding: 7.5px;
 	border-radius: 2.5px;
 }

@@ -1,4 +1,6 @@
-* {
+*,
+*::before,
+*::after {
 	margin: 0px;
 	padding: 0px;
 	box-sizing: border-box;
@@ -104,7 +106,6 @@ h1 {
 	color: #e8eded;
 	padding: 25px 25px;
 	margin: 0;
-
 	text-align: center;
 }
 
